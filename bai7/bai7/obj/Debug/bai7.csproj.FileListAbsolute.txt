@@ -1,0 +1,7 @@
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\obj\Debug\bai7.csprojResolveAssemblyReference.cache
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\obj\Debug\bai7.MainForm.resources
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\obj\Debug\bai7.csproj.GenerateResource.Cache
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\bin\Debug\bai7.exe
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\bin\Debug\bai7.pdb
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\obj\Debug\bai7.exe
+C:\Users\duynhat\Documents\SharpDevelop Projects\bai7\bai7\obj\Debug\bai7.pdb
