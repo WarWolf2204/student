@@ -72,7 +72,7 @@ namespace bai7
 			{
 				if(element.namsinh == timnam.Text && element.quequan == timque.Text)
 				{
-					MessageBox.Show("(0)"+ten.Text);
+					MessageBox.Show(timten.Text);
 					MessageBox.Show(timque.Text);
 				}
 				else
